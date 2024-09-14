@@ -1,5 +1,5 @@
 # Underhill2023
-Quantification code for paper "Control of gastruloid patterning and morphogenesis by the Erk and Akt signaling pathways," Development (2023)
+Movies and quantification code for paper "Control of gastruloid patterning and morphogenesis by the Erk and Akt signaling pathways," Development (2023)
 
 This code is used for quantifying the distribution of a fluorescent readout along the major axis of a gastruloid. 
 The Matlab script takes as input a .tif stack with individual gastruloid images, along with .txt files containing the coordinates
